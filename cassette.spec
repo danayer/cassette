@@ -40,7 +40,6 @@ BuildRequires: desktop-file-utils
 %find_lang %{name}
 
 %files -f %{name}.lang
-%license LICENSE
 %doc README.md
 %{_bindir}/cassette
 %{_datadir}/glib-2.0/schemas/%{xdg_name}.gschema.xml

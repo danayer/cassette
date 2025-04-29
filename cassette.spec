@@ -22,7 +22,7 @@ BuildRequires: sqlite-devel
 BuildRequires: libgee-devel
 BuildRequires: libxml2-devel
 BuildRequires: gstreamer1-devel
-BuildRequires: webkit2gtk4.1-devel
+BuildRequires: webkitgtk6.0-devel
 
 %description
 %{summary}.

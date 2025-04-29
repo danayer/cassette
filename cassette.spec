@@ -23,6 +23,7 @@ BuildRequires: libgee-devel
 BuildRequires: libxml2-devel
 BuildRequires: gstreamer1-devel
 BuildRequires: webkitgtk6.0-devel
+BuildRequires: desktop-file-utils
 
 %description
 %{summary}.

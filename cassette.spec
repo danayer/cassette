@@ -28,7 +28,7 @@ BuildRequires: webkit2gtk4.1-devel
 %{summary}.
 
 %prep
-%autosetup
+%autosetup -n Cassette-v%{version}
 
 %build
 %meson
